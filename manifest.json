@@ -1,0 +1,12 @@
+{
+  "manifest_version": 2,
+
+  "name": "Display time in IST and UTC",
+  "description": " will Display time in IST and UTC",
+  "version": "1.0",
+
+  "browser_action": {
+    "default_icon": "time.png",
+    "default_popup": "time.html"
+  }
+}
